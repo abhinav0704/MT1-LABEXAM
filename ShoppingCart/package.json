@@ -1,0 +1,12 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "http": "node httpServer.js",
+    "express": "node expressApp.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
